@@ -5,11 +5,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 
-
-import java.io.*;
-import java.util.ArrayList;
-import java.util.HashMap;
-
 public class DatabaseHandler {
 
     // Initialize required files if they don't exist
