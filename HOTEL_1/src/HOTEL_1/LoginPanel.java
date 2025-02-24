@@ -11,18 +11,6 @@ import java.util.HashMap;
 import javax.imageio.ImageIO;
 
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.util.HashMap;
-
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.util.HashMap;
-
 public class LoginPanel extends JPanel {
     private JTextField nameField;
     private JPasswordField passwordField;
